@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @o2magis
 - 👀 I’m interested in PHP programming
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Laravel
+- 🌱 I’m currently learning Laravel & Angular
 - 📫 How to reach me ? drop an email to dev@otomagis.id
 
 <!---
